@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([["3220"],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/amneziahosting-docs/blog","blogTitle":"Blog","authorsListPath":"/amneziahosting-docs/blog/authors"}')}}]);
